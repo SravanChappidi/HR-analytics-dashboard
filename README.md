@@ -19,27 +19,30 @@ This repository contains resources and documentation related to HR data analytic
 
 - **Dashboards**: Develop comprehensive dashboards to monitor HR performance and trends.
 - **Report Sharing**: Share reports and dashboards with stakeholders for collaborative decision-making.
+  
 ## Data Cleaning Process:
-o	The data cleansing process includes:
-o	Data Profiling: Analyzing the structure, content, and quality of HR datasets.
-o	Data Cleaning: Identifying and correcting data anomalies, such as missing values, duplicates, and inconsistencies.
-o	Standardization: Ensuring uniformity and consistency in data formats, codes, and categories.
-o	Validation: Performing data quality checks and validation tests to verify data accuracy and completeness.
-o	Data Transformation: Preparing cleansed data for analysis by transforming and organizing it into usable formats.
-o	Documentation: Documenting data cleansing procedures, transformations, and validations for transparency and reproducibility.
+•	The data cleansing process includes:
+•	Data Profiling: Analyzing the structure, content, and quality of HR datasets.
+•	Data Cleaning: Identifying and correcting data anomalies, such as missing values, duplicates, and inconsistencies.
+•	Standardization: Ensuring uniformity and consistency in data formats, codes, and categories.
+•	Validation: Performing data quality checks and validation tests to verify data accuracy and completeness.
+•	Data Transformation: Preparing cleansed data for analysis by transforming and organizing it into usable formats.
+•	Documentation: Documenting data cleansing procedures, transformations, and validations for transparency and reproducibility.
+
 
 ## Data Quality Checks:
-o	Completeness Check.
-o	Consistency Check.
-o	Accuracy Check.
-o	Validity Check.
-o	Duplication Check.
-o	Integrity Check.
-o	Timeliness Check.
-o	Outlier Detection.
-o	Data Profiling.
-o	Cross-Validation.
-o	Error Handling.
+•	Completeness Check.
+•	Consistency Check.
+•	Accuracy Check.
+•	Validity Check.
+•	Duplication Check.
+•	Integrity Check.
+•	Timeliness Check.
+•	Outlier Detection.
+•	Data Profiling.
+•	Cross-Validation.
+•	Error Handling.
+
 
 ## Tools and Technologies:
 - **Power BI Desktop**: Used for data visualization, modeling, and report creation.
